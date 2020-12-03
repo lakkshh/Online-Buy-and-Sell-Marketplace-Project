@@ -9,17 +9,21 @@ The functionalities include:
 - The user can list their second-hand items for sale
 - The user can buy the listed second-hand items
 - The user can view the listed second-hand items
-- 
+
 ## SCREENSHOTS
 1. Login Page
+
 ![login page](https://i.ibb.co/FV2HQZf/Screenshot-91.png)
 
 2. Registration Page
+
 ![registration page](https://i.ibb.co/GWk9mxJ/Screenshot-90.png)
 
 3. Sell Product
+
 ![sell item](https://i.ibb.co/FX2X03B/Screenshot-92.png)
 
 4. Buy Product
+
 ![buy item](https://i.ibb.co/hBfhy2V/Screenshot-88.png)
 
