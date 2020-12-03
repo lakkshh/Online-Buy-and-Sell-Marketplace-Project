@@ -11,19 +11,22 @@ The functionalities include:
 - The user can view the listed second-hand items
 
 ## SCREENSHOTS
-1. Login Page
+1. <ins>Login Page</ins>
 
 ![login page](https://i.ibb.co/FV2HQZf/Screenshot-91.png)
 
-2. Registration Page
+
+2. <ins>Registration Page</ins>
 
 ![registration page](https://i.ibb.co/GWk9mxJ/Screenshot-90.png)
 
-3. Sell Product
+
+3. <ins>Sell Product</ins>
 
 ![sell item](https://i.ibb.co/FX2X03B/Screenshot-92.png)
 
-4. Buy Product
 
-![buy item](https://i.ibb.co/hBfhy2V/Screenshot-88.png)
+4. <ins>Buy Product</ins>
+
+![buy item](https://i.ibb.co/1r6hLRT/Screenshot-88.png)
 
